@@ -32,3 +32,22 @@ appstore StuffIt Expander
 appstore Sunrise Calendar
 appstore Xcode
 appstore YoruFukurou
+
+# Apps installed directly instead of by Cask in brew-cask
+cask adobe-photoshop-cc
+cask alfred
+cask android-studio
+cask bettertouchtool
+cask dashlane
+cask dropbox
+cask evernote
+cask google-chrome
+cask iterm2
+cask karabiner
+cask openoffice
+cask powerphotos
+cask skala-preview
+cask skitch
+cask skype
+cask sublime-text
+cask vlc
